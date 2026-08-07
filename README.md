@@ -21,11 +21,6 @@ Currently working at **Lycorp Health** building AI agents for healthcare, and ru
 Python · HTML · CSS · JavaScript · SQL
 ```
 
-**AI & LLMs**
-```
-OpenAI (GPT) · Claude (Anthropic) · Gemini (Google)
-```
-
 **Automation & Integrations**
 ```
 n8n · FastAPI · REST APIs · Webhooks · WhatsApp API (official & parallel)
@@ -33,7 +28,7 @@ n8n · FastAPI · REST APIs · Webhooks · WhatsApp API (official & parallel)
 
 **Frameworks & Libraries**
 ```
-Agno · Pandas · FastAPI
+Agno · FastAPI
 ```
 
 **Infrastructure**
@@ -56,37 +51,6 @@ Claude Code · Cursor · Lovable · OpenAI Codex · Label Studio
 Kommo · Aspa Chat
 ```
 
----
-
-## Projects
-
-### [LIORTO IA](https://github.com/brunotardelli)
-AI agent for the Academic Orthopedics League at UERJ (Hospital Pedro Ernesto).  
-Handles patient orientation and automated support inside the hospital.  
-`n8n` `Docker` `Redis` `WAHA API` `Gemini API` `REST APIs`
-
----
-
-### [Mentor Invest](https://mentorinvest.com.br)
-WhatsApp-based financial assistant with a full web dashboard.  
-Handles expense tracking, financial education, asset analysis, and payment integration.  
-`n8n` `Docker` `Redis` `Supabase` `Asaas` `LLMs` `Lovable`
-
----
-
-### [Artilheiro das Bets](https://artilheirodasbets.com.br)
-Sports analysis AI agent via WhatsApp with real-time odds and match data.  
-`n8n` `FastAPI` `Google Cloud` `WhatsApp API Official` `Aspa Chat` `LLMs`
-
----
-
-### BT Company — Web & Automation
-Landing pages and institutional websites for professionals and small businesses.  
-Built with HTML, CSS, JavaScript, Claude Code, and Lovable.  
-`HTML` `CSS` `JavaScript` `Claude Code` `Lovable` `Git` `DNS`
-
----
-
 ## Experience
 
 | Company | Role | Period |
@@ -95,7 +59,6 @@ Built with HTML, CSS, JavaScript, Claude Code, and Lovable.
 | Anonimiza.ai | Development Intern | Jan/2025 – Jan/2026 |
 | BT Company | Founder & Developer | 2025 – present |
 | Flopo | Freelancer — Data & AI | Jan/2023 – Mar/2023 |
-| Pernambuco Motos (Honda) | Young Apprentice — HR | Oct/2024 – Dec/2024 |
 
 ---
 
